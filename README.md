@@ -6,6 +6,11 @@ https://www.cryptodatadownload.com/data/
 
 
 
+
+
 ## _>> Usfull tools :_
 Data convertor:
 https://www.convertcsv.com/
+
+Portfolio Simulator: 
+https://www.cryptodatadownload.com/analytics/portfolio-simulator/
